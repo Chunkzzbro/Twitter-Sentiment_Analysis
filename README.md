@@ -28,6 +28,6 @@ It contains the following 6 fields:
 
 6. text: the text of the tweet (Lyx is cool)
 
-Tried extracting the tweets from twitter using Tweepy which is the Twitter API but didnt have enough permission to do so. I assume you would need to Basic Access as compared to the Free Access provided by Twitter.
+Tried extracting the tweets from twitter using Tweepy , an open-source python package that provides a way for developers to communicate with the Twitter API but didnt have enough permission to do so. I assume you would need to Basic Access as compared to the Free Access provided by Twitter.
 
 
